@@ -16,11 +16,11 @@ var pkg pkgsrc.Pkg
 
 const (
 	name     = "make"
-	vers     = "4.2"
+	vers     = "4.3"
 	ext      = "tar.gz"
 	url      = "http://ftp.gnu.org/gnu/make"
 	hashType = "sha256"
-	hash     = "e968ce3c57ad39a593a92339e23eb148af6296b9f40aa453a9a9202c99d34436"
+	hash     = "e05fdde47c5f7ca45cb697e973894ff4f5d79e13b750ed57d7b66d8defc78e19"
 )
 
 func checkArgs() error {
